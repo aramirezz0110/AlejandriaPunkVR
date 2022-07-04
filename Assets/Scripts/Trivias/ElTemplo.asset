@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cdf340991465954b8ab0b59648da7b9, type: 3}
+  m_Name: ElTemplo
+  m_EditorClassIdentifier: 
+  BookName: El Templo
+  Author: Howard Phillip Lovecraft
+  questions:
+  - Question: El nombre de submarino
+    CorrectAnswer: U-29
+    IncorrectAnswer1: USS FRANKLIN
+    IncorrectAnswer2: U-26
+  - Question: Nombre de capitan del relato
+    CorrectAnswer: Karl Heinrick
+    IncorrectAnswer1: Finneas Fog
+    IncorrectAnswer2: Charles Dexter Ward
+  - Question: El objeto que desato la locura
+    CorrectAnswer: Cabeza tallada de marfil
+    IncorrectAnswer1: Busto de Dagon
+    IncorrectAnswer2: Necronomicon
+  - Question: Nacionalidad de la nave que les ofrecia una salvacion
+    CorrectAnswer: Estadounidense
+    IncorrectAnswer1: Italiana
+    IncorrectAnswer2: Britanica
+  - Question: Causa de la falla del submarino
+    CorrectAnswer: Explosion en la sala de maquinas
+    IncorrectAnswer1: Motin de los marinos
+    IncorrectAnswer2: Ataque de otro submarino
+  - Question: "El ultimo acompa\xF1ante del capital del submarino"
+    CorrectAnswer: Klenze
+    IncorrectAnswer1: Ward
+    IncorrectAnswer2: Abdul
+  - Question: Nacionalidad del submarino protagonista
+    CorrectAnswer: Aleman
+    IncorrectAnswer1: Britanico
+    IncorrectAnswer2: Italiano
+  - Question: "El ultimo acompa\xF1ante del capital del submarino"
+    CorrectAnswer: Klenze
+    IncorrectAnswer1: Ward
+    IncorrectAnswer2: Abdul
+  - Question: El destino de los marineros amotinados
+    CorrectAnswer: Muerte por disparos
+    IncorrectAnswer1: Encerrados en la carceleta
+    IncorrectAnswer2: Expulsados del submarino
+  - Question: Destino final del marinero Klenze
+    CorrectAnswer: Salio del submarino por voluntad propia
+    IncorrectAnswer1: Encerrados en la carceleta
+    IncorrectAnswer2: Muerto por asfixia en el submarino
+  - Question: Criatura que escolto al submarino
+    CorrectAnswer: Delfin
+    IncorrectAnswer1: Ballenas
+    IncorrectAnswer2: Cthulhu
